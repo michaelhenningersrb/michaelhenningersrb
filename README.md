@@ -24,6 +24,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/michaelhenninger"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="michaelhenninger" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelhenningersrb&show_icons=true&locale=en" alt="michaelhenningersrb" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=michaelhenningersrb&show_icons=true&locale=en" alt="michaelhenningersrb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelhenningersrb&" alt="michaelhenningersrb" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelhenningersrb&" alt="michaelhenningersrb" /></p>
