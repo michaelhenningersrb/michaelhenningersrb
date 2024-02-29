@@ -5,6 +5,13 @@ name: self-hosted-example
 jobs:
   simpleExample:
     runs-on: self-hosted
+    env:
+      URL: trainings4h.srb.at
+      METHOD: GET  # the method used to make the request. It is GET by default
     steps:
     # checkout branch
     - uses: actions/checkout@master
+
+    - uses: sisodiya2421/pinger@master
+      id: ping
+      
