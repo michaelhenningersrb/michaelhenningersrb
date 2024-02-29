@@ -4,7 +4,7 @@ name: self-hosted-example
 
 jobs:
   simpleExample:
-    runs-on: srbhenninger2
+    runs-on: self-hosted
     steps:
     # checkout branch
     - uses: actions/checkout@master
