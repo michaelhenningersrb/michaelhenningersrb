@@ -1,0 +1,10 @@
+on: [push]
+
+name: self-hosted-example
+
+jobs:
+  simpleExample:
+    runs-on: srbhenninger2
+    steps:
+    # checkout branch
+    - uses: actions/checkout@master
